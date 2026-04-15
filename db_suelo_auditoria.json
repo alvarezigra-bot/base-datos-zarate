@@ -1,0 +1,1507 @@
+{
+  "meta": {
+    "total_analizado": 2536,
+    "hallazgos_suelo": 82,
+    "fecha_auditoria": "2026-04-15T11:49:01.942583"
+  },
+  "normas_criticas": [
+    {
+      "id_exp": 11510,
+      "tipo": "Ordenanza",
+      "numero": "2426",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2426 CORRESPONDE A EXPTE. 4121 - 5302/84.- VISTO: El Expediente Nº 4121-5302/84 Alcance 16/09/86, iniciado por el Agrimensor Juan Carlos Sampaclesi, y.- CONSIDERANDO: Que, de las fechas de ventas for­malizadas, surge que el loteo de hecho, es previo a la puesta en vigencia del Decreto-Ley 8912/77.- Que la situación planteada, cons­tituye un hecho existe...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11510",
+      "scraped_at": "2026-04-15T14:18:03.354986+00:00",
+      "auditoria_suelo": {
+        "score": 6,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ],
+          "URBANIZACIONES": [
+            "loteo"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13600,
+      "tipo": "Ordenanza",
+      "numero": "5319",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5319 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 301/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-5386/2025 iniciado por la Dirección de Regularización Urbana, para la incorporación al dominio municipal de la parce...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13600",
+      "scraped_at": "2026-04-15T14:25:07.694237+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13599,
+      "tipo": "Ordenanza",
+      "numero": "5318",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5318 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 300/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto Ley 6769/58, el Código de Planeamiento del partido de Zárate, Ordenanza 3125, y el Expediente: 4121-5382/2025 iniciado por la Dirección de Regularización Urbana, para la incorporación al dominio municipa...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13599",
+      "scraped_at": "2026-04-15T14:25:07.235381+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13598,
+      "tipo": "Ordenanza",
+      "numero": "5317",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5317 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 299/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley Nº 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 41214056/25 iniciado por la Dirección de Regularización Urbana \"Desarrollos Inmobiliarios, La Campiña S.A.\", para la inco...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13598",
+      "scraped_at": "2026-04-15T14:25:07.182046+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13597,
+      "tipo": "Ordenanza",
+      "numero": "5316",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5316 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 298/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley Nº 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-5383/25 iniciado por la Dirección de Regularización Urbana, para la incorporación al dominio municipal de la parcela...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13597",
+      "scraped_at": "2026-04-15T14:25:07.146660+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13596,
+      "tipo": "Ordenanza",
+      "numero": "5313",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5313 CORRESPONDE A EXPTE. Nº4121 - H.C.D. 295/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley Nº 6769/1958, el: Código de Planeamiento del partido de Zárate, el Expediente: 4121-4056/25 iniciado por la firma Desarrollos Inmobiliarios, La Campiña S.A., para la incorporación al dominio municipal...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13596",
+      "scraped_at": "2026-04-15T14:25:06.688281+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13595,
+      "tipo": "Ordenanza",
+      "numero": "5315",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5315 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 297/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley Nº 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-4923/2025 iniciado por la Dirección de Regularización Urbana, para la incorporación al dominio municipal de la parce...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13595",
+      "scraped_at": "2026-04-15T14:25:06.625223+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13594,
+      "tipo": "Ordenanza",
+      "numero": "5314",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5314 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 296/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-4922/25 iniciado por la Dirección de Regularización Urbana \"Altos de Villanueva Desarrollos Inmobiliarios S.R.L\", pa...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13594",
+      "scraped_at": "2026-04-15T14:25:06.603565+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13593,
+      "tipo": "Ordenanza",
+      "numero": "5312",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5312 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 294/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-4970/2025 iniciado por la Dirección de Regularización Urbana, para la incorporación al dominio municipal de la parce...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13593",
+      "scraped_at": "2026-04-15T14:25:06.114451+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13586,
+      "tipo": "Ordenanza",
+      "numero": "5306",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5306 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 288/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121-5003/2025iniciado por la Dirección de Regularización Urbana, para laincorporación al dominio municipal de la parcela...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13586",
+      "scraped_at": "2026-04-15T14:25:04.714878+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13557,
+      "tipo": "Ordenanza",
+      "numero": "5278",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5278 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 164/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121 - 2110/25iniciado por FAED S.A, para laincorporación al dominio municipal de la parcela cedida como \"espacio verde y...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13557",
+      "scraped_at": "2026-04-15T14:24:59.268744+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13556,
+      "tipo": "Ordenanza",
+      "numero": "5277",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5277 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 163/25.- V I S T O : El Decreto Ley 8912/77, Ley 10.707 de Catastro de la Provincia de Buenos Aires, Decreto-Ley N° 6769/1958, el Código de Planeamiento del partido de Zárate, el Expediente: 4121 - 2110/25, iniciado por FAED S.A, para laincorporación al dominio municipal de la parcela cedida como \"Reserva de eq...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13556",
+      "scraped_at": "2026-04-15T14:24:58.746940+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12717,
+      "tipo": "Ordenanza",
+      "numero": "4479",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4479 CORRESPONDE A EXPEDIENTE Nº 4121-H.C.D. 399/16.- V I S T O S: El Expediente Nº 4121-0165/2016 por el cual el señor Lorenzo Castro, a través de su apoderado el señor Olivero Castro, solicita el otorgamiento de nuevos indicadores urbanísticos y cambio de usos del suelo para la Factibilidad de Subdivisión de la Parcela identificada catastralmente como...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12717",
+      "scraped_at": "2026-04-15T14:22:00.462042+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "USO_SUELO": [
+            "indicadores urbanísticos"
+          ],
+          "URBANIZACIONES": [
+            "subdivisión"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12429,
+      "tipo": "Ordenanza",
+      "numero": "4230",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4230 CORRESPONDE A EXPEDIENTE Nº 4121 -H.C.D. 443/13.- V I S T O: La competencia Municipal que en la materia surge de los Artículos 190 y siguientes de la Constitución Provincial, Art. 27 inciso 2 y siguientes del Decreto Ley 6769/58/ Art. 70 y 71 del Decreto Ley 8912/77, normas complementarias y modificatorias, y.- CONSIDERANDO: Que, los fundamentos de...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12429",
+      "scraped_at": "2026-04-15T14:21:03.168288+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12418,
+      "tipo": "Ordenanza",
+      "numero": "4219",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4219 CORRESPONDE A EXPEDIENTE Nº 4121 -H.C.D. 478/13.- V I S T O: Lo dispuesto por el Decreto Ley 8912/77, Código Urbano del Partido de Zárate, aprobado mediante Ordenanza Nº 3251, y el expediente Nº 4121 - 0643/2011, y.- CONSIDERANDO: Que, el expediente Nº 4121 - 0643/2011 da cuenta de un proyecto urbanístico desarrollado por el fideicomiso denominado ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12418",
+      "scraped_at": "2026-04-15T14:21:00.987800+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912/77",
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 11820,
+      "tipo": "Resolución",
+      "numero": "2165",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2165 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 139/11.- VISTO: Que el próximo sábado 7 de mayo se realizará la apertura de la muestra \"Expresándonos\" en el Almacén Cultural Cooperativo, extendiéndose la misma hasta el 25 de mayo del año en curso, y.- CONSIDERANDO: Que en esta muestra \"Expresándonos\" exponen los fotógrafos Nilda Gianfelice y Mario Castillo ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11820",
+      "scraped_at": "2026-04-15T14:19:03.718468+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "USO_SUELO": [
+            "fos",
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11016,
+      "tipo": "Resolución",
+      "numero": "1996",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 1996 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 309/10.- VISTO: La exposición desarrollada por el grupo denominado \"Amigos de la Luz\", alumnos del reconocido fotógrafo Gustavo Roses, inaugurada el viernes 25 de junio de 2.010 en el Club Argentino; y.- CONSIDERANDO: Que Amigos de la Luz es conjunto de fotógrafos alumnos de Gustavo Roses, quienes exponen ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11016",
+      "scraped_at": "2026-04-15T14:16:25.662876+00:00",
+      "auditoria_suelo": {
+        "score": 4,
+        "alertas": {
+          "USO_SUELO": [
+            "fos",
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13554,
+      "tipo": "Ordenanza",
+      "numero": "5275",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5275 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 160/25.- V I S T O: Elexpediente Nº 4121-2581/2025; y.- CONSIDERAND O: Que, mediante el expediente citado en el Vistoel señor Marcelo Cristóbal Amalfi formula un pedido de excepción al Código de Planeamiento Urbano del Partido de Zárate, para la actividad de \" Guarda y estacionamiento de vehículos pesados, cami...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13554",
+      "scraped_at": "2026-04-15T14:24:58.699881+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13534,
+      "tipo": "Ordenanza",
+      "numero": "5254",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5254 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 070/25.- V I S T O: El convenio celebrado entre la Municipalidad de Zárate y la firma Cervecería y Maltería Quilmes S.A.I.C.A. y G.; y.- CONSIDERANDO: Que, entre la Municipalidad de Zárate y la empresa Cervecería y Maltería Quilmes S.A.I.C.A. y G. se ha celebrado un convenio urbanístico dentro del marco y con l...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13534",
+      "scraped_at": "2026-04-15T14:24:54.641176+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13521,
+      "tipo": "Ordenanza",
+      "numero": "5242",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5242 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 040/25.- V I S T O: El Convenio Urbanístico celebrado entre la Municipalidad de Zárate y la empresa ONIX S.R.L.; y.- CONSIDERANDO: Que, el mencionado Convenio Urbanístico tiene por objeto realizar un plan de urbanización denominado \"Campo Alto\", consistente en la generación de la trama urbana a partir de la sub...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13521",
+      "scraped_at": "2026-04-15T14:24:52.272867+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13516,
+      "tipo": "Ordenanza",
+      "numero": "5237",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5237 CORRESPONDE A EXPEDIENTE Nº 4121-H.C.D. 046/25.- V I S T O: El convenio celebrado entre la Municipalidad de Zárate y la firma Arq. Patricio S.A; y.- CONSIDERANDO: Que, entre la Municipalidad de Zárate y la firma Arq. Patricio S.A. se ha celebrado un convenio urbanístico que tiene por objeto el cumplimiento, por parte de la desarrolladora, de la ley...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13516",
+      "scraped_at": "2026-04-15T14:24:51.065753+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13487,
+      "tipo": "Ordenanza",
+      "numero": "5211",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5211 40º ANIVERSARIO DEL INFORME DE LA CONEDEP, \"NUNCA MAS\".- CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 509/24.- V I S T O: La Ordenanza N° 5157, y el expediente 4121-0087/2011, y.- CONSIDERANDO: Que, en el expediente citado en el visto la empresa INDUSTRIAS GUIDI S.A.C.I.F. solicitó el cambio de zonificación del inmueble cuya Nomenclatura catastral es ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13487",
+      "scraped_at": "2026-04-15T14:24:44.553235+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "cambio de zonificación"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13485,
+      "tipo": "Ordenanza",
+      "numero": "5209",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5209 40º ANIVERSARIO DEL INFORME DE LA CONEDEP, \"NUNCA MAS\".- CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 492/24.- V I S T O: El convenio celebrado entre la Municipalidad de Zárate y la firma Eidico Cardón S.A.; y.- CONSIDERANDO: Que, entre la Municipalidad de Zárate y la firma Eidico Cardón S.A. se ha celebrado un convenio urbanístico que tiene por objet...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13485",
+      "scraped_at": "2026-04-15T14:24:44.050628+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13476,
+      "tipo": "Ordenanza",
+      "numero": "5199",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5199 40º ANIVERSARIO DEL INFORME DE LA CONADEP, \"NUNCA MAS\".- CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 453/24.- V I S T O: El Expediente Nº 4121-3043/2021, la Ordenanza Nº 4053/12 -modificada por Ordenanza Nº 4222/2013-, el Decreto Nº 1027/15, y el Convenio Urbanístico celebrado el día 29 de Octubre de 2021 entre la Municipalidad de Zarate, los Sres. Merlo...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13476",
+      "scraped_at": "2026-04-15T14:24:42.149438+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13418,
+      "tipo": "Ordenanza",
+      "numero": "5142",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5142 40º ANIVERSARIO DEL INFORME DE LA CONADEP, \"NUNCA MÁS\".- CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 242/24.- V I S T O: La Ordenanza 3125/97, los expedientes N° 4121-5162/2023, N° 4121-6176/2023, Nº 4121-3007/2024, el Nº 4121-3375/2024, y.- CONSIDERANDO: Que, por Ordenanza 3125/97, se establecen los indicadores urbanísticos y parámetros de las zonas ind...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13418",
+      "scraped_at": "2026-04-15T14:24:30.715619+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "indicadores urbanísticos"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13413,
+      "tipo": "Ordenanza",
+      "numero": "5138",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 5138 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 217/24.- V I S T O: El expediente 4121-2036/2024.- CONSIDERANDO: Que, en el expediente citado en el Visto, conforme la información obrante a fs 4 del mismo, se aclara que para la realización de planos de mensura y subdivisión de emprendimientos habitacionales en tierras del dominio público municipal, resulta im...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13413",
+      "scraped_at": "2026-04-15T14:24:29.558730+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "subdivisión"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13235,
+      "tipo": "Ordenanza",
+      "numero": "4971",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4971 CORRESPONDE A EXPEDIENTE Nº 4121-H.C.D. 293/22.- V I S T O: El expediente municipal Nº 4121-0860/2022, y.- CONSIDERANDO: Que, mediante el expediente Nº 4121-0860/2022, el Presidente de LIMA VIDEO CABLE S.A., Sr. Héctor Hugo MOSCONI, con domicilio en Av. Antártida Argentina N° 3860 de la ciudad de Zárate, solicita una excepción al Código de Planeami...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13235",
+      "scraped_at": "2026-04-15T14:23:53.811491+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13167,
+      "tipo": "Ordenanza",
+      "numero": "4908",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4908 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 271/21.- V I S T O: El Decreto Nº 50 del 19 de diciembre de 2019 y la Ley de Formación Técnico Profesional Nº 26.058, y el Expediente Municipal Nº 4121-3236/2021, y.- CONSIDERANDO: Que, de fs. 2 a 8 del Expediente citado en el Visto, se acompaña Convenio de Gestión Colaborativa, suscripto entre el Ministerio de...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13167",
+      "scraped_at": "2026-04-15T14:23:40.452671+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio de gestión"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13166,
+      "tipo": "Ordenanza",
+      "numero": "4907",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4907 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 270/21.- V I S T O: El Decreto de Necesidad y Urgencia Nº 84 del 23 de enero de 2014, de creación del \"Programa de Respaldo a Estudiantes Argentinos\" (PROGRESAR), y el Expediente Municipal Nº 4121-3258/2021, y.- CONSIDERANDO: Que, de fs. 2 a 4 del Expediente citado en el Visto, se acompaña Convenio de Gestión C...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13166",
+      "scraped_at": "2026-04-15T14:23:40.353662+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio de gestión"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13159,
+      "tipo": "Ordenanza",
+      "numero": "4900",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4900 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 256/21.- V I S T O: El Expediente Nº 4121-3043/2021, la Ordenanza Nº 4053/12 -modificada por Ordenanza Nº 4222/13-, el Decreto Nº 1027/15, y el Convenio Urbanístico celebrado el día 29 de Octubre de 2021 entre la MUNICIPALIDAD DE ZARATE, los Sres. MerloAna Laura MERLO, Marina Daniela MERLO, Adriana Cristina MER...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13159",
+      "scraped_at": "2026-04-15T14:23:38.939228+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 13118,
+      "tipo": "Ordenanza",
+      "numero": "4858",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4858 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 018/21.- VISTO: El expediente Nº 4121-3474/2019, y.- CONSIDERANDO: Que, a fojas 25 del expediente N° 4121-3474/2019 el señor ZHAO GONGJIAN, titular del comercio ubicado en la calle Evaristo Carriego N° 989 de la ciudad de Zárate, solicita una excepción al Código de Planeamiento Urbano del Partido de Zárate ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13118",
+      "scraped_at": "2026-04-15T14:23:30.493909+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13109,
+      "tipo": "Ordenanza",
+      "numero": "4836",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4836 CORRESPONDE A EXPEDIENTE Nº 4121-H.C.D.225/20.- V I S T O: El Código de Planeamiento Urbano del Partido de Zárate, aprobado por Ordenanza Nº 3125/97 y modificatorias - Decreto de Convalidación provincial 1699/99 y complementarios, y el Expediente Municipal Nº 4121-2281/2020; y.- CONSIDERANDO: Que, el crecimiento edilicio del Partido de Zárate ha in...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13109",
+      "scraped_at": "2026-04-15T14:23:28.751581+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "convalidación provincial"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13032,
+      "tipo": "Ordenanza",
+      "numero": "4779",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4779 CORRESPONDE A EXPTE. N° 4121 -H.C.D. 348/19.- V I S T O: El expediente Nº 4121-1799/2013; y.- CONSIDERANDO: Que, mediante el expediente Nº 4121-1799/2013 Alcance VIII de fs 261, la firma GRANJA 92 ZÁRATE S.R.L titular del comercio de la calle Sargento Cabral Nº 1330 de la ciudad de Zárate, solicita una excepción al Código de Planeamiento Urbano del...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13032",
+      "scraped_at": "2026-04-15T14:23:12.398171+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 13013,
+      "tipo": "Ordenanza",
+      "numero": "4755",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4755 CORRESPONDE A EXPTE. Nº 4121 -H.C.D. 280/019.- V I S T O: El Expediente Administrativo N° 4121-0897/2018, y.- CONSIDERANDO: Que, en el citado Expediente Administrativo N° 4121-0897/18. obra en copia certificada, un CONVENIO URBANÍSTICO, celebrado entre la MUNICIPALIDAD DE ZÁRATE, y la firma COMPAÑIA DE CRÉDITO ARGENTINA S.A. DE AHORRO PARA FINES DE...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=13013",
+      "scraped_at": "2026-04-15T14:23:07.875286+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12982,
+      "tipo": "Ordenanza",
+      "numero": "4730",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4730 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 156/19.- V I S T O: Los expedientes Nº 4121-0813/2018 y Nº 4121-0816/2018; y.- CONSIDERAND O: Que, mediante el expediente Nº 4121-0813/2018, la señora Antonella DEL BIANCO, titular del comercio de la Av. Gallesio Nº 116 de la ciudad de Zárate, solicita una excepción al Código de Planeamiento Urbano del Partido ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12982",
+      "scraped_at": "2026-04-15T14:23:01.475125+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12891,
+      "tipo": "Ordenanza",
+      "numero": "4647",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4647 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 197/18.- V I S T O: La Ordenanza Nº 4053/12 -modificada por Ordenanza Nº 4222/13,el Decreto Nº 1027/15, El Convenio Urbanístico celebrado entre la Municipalidad de Zárate, la firma WITCEL S.A. y la SOCIEDAD COSTANERA ZARATE S.A.P.E.M.; y.- CONSIDERANDO: Que mediante la Ordenanza Nº 4053/12 -modificada por Orden...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12891",
+      "scraped_at": "2026-04-15T14:22:36.185660+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12868,
+      "tipo": "Ordenanza",
+      "numero": "4626",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4626 CORRESPONDE A EXPTE. N° 4121 - H.C.D. 006/18 .- V I S T O: El anteproyecto presentado por la asociación civil SMITHFIELD GOLF CLUB y el Convenio Urbanístico celebrado entre la Municipalidad de Zárate y la referida asociación civil; y.- CONSIDERANDO: Que, el anteproyecto presentado por el administrado a fs. 1 y 2 y los documentos gráficos descriptos...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12868",
+      "scraped_at": "2026-04-15T14:22:30.850836+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12829,
+      "tipo": "Ordenanza",
+      "numero": "4586",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4586 CORRESPONDE A EXPTE. Nº 4121 -H.C.D. 313/017.- V I S T O: El Expediente N° 4121-5502/2017 y el convenio urbanístico obrante en dichas actuaciones, y.- CONSIDERANDO: Que, entre los Sres. Elida Bava, Noemí Ángela Bava y Oscar Alfredo Ferrari, quienes resultan ser titulares de dominio del inmueble sito en la ciudad de Zárate designado catastralmente c...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12829",
+      "scraped_at": "2026-04-15T14:22:23.128861+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12792,
+      "tipo": "Ordenanza",
+      "numero": "4553",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4553 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 044/17.- V I S T O: Los expedientes Nº 4121- 10125/2015 y 4121-3056/2016, y.- CONSIDERAND O: Que, mediante expediente 4121-10125/2015 el administrado solicita una excepción al Código de Planeamiento Urbano del Partido de Zárate para las actividades de Venta al por mayor y al por menor en supermercados mayorista...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12792",
+      "scraped_at": "2026-04-15T14:22:16.203738+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12777,
+      "tipo": "Ordenanza",
+      "numero": "4538",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4538 CORRESPONDE A EXPTE. Nº 4121 -H.C.D. 020/17.- V I S T O: El Expediente N 4121-4206/2016 por el cual la firma GRUPO ZARATE S.A., a través de su Representante Técnico, solicita el otorgamiento de una excepción al Código de Planeamiento Urbano del Partido de Zárate, y en el marco del cual se suscribiera un Convenio ad referéndum de éste Honorable Conc...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12777",
+      "scraped_at": "2026-04-15T14:22:12.807246+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12716,
+      "tipo": "Ordenanza",
+      "numero": "4477",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4477 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 078/16.- V I S T O: El Expediente 4121-078/2016, promovido por vecinos residentes en los predios designados catastralmente como Circunscripción: II - Sección: A - Fracciones: VIII y IX del Partido de Zárate según Plano de Mensura y División 38 - 95 - 74 (Ruta Nacional Nº 9 entre los kilómetros 86 y 87 de la...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12716",
+      "scraped_at": "2026-04-15T14:22:00.357783+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12637,
+      "tipo": "Ordenanza",
+      "numero": "4398",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4398 CORRESPONDE A EXPTE. 4121 -H.C.D. 492/15.- V I S T O: El Expediente N 4121-2901/2015 por el cual la firma ZARFER S.A., a través de su apoderado, solicita el otorgamiento de una excepción al Código de Planeamiento Urbano del Partido de Zárate, y en el marco del cual se suscribiera un Convenio ad referéndum de éste Honorable Concejo Deliberante, y.- ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12637",
+      "scraped_at": "2026-04-15T14:21:44.111684+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12606,
+      "tipo": "Ordenanza",
+      "numero": "4370",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4370 CORRESPONDE A EXPTE. 4121 -H.C.D. 437/15.- V I S T O: El Anteproyecto presentado por la asociación civil SMITHFIELD GOLF CLUB, y el Convenio urbanístico celebrado entre la Municipalidad de Zárate y la referida asociación civil, y.- CONSIDERANDO: Que, el anteproyecto presentado por el administrado a fs. 1 y 2 Y los documentos gráficos descriptivos a...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12606",
+      "scraped_at": "2026-04-15T14:21:38.088230+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "CONVENIOS": [
+            "convenio urbanístico"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 12592,
+      "tipo": "Ordenanza",
+      "numero": "4356",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4356 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 610/14.- V I S T O: El Expediente Nº 4121 - 4578/2008; y.- CONSIDERANDO: Que, la firma Servicios del Paraná S.A., solicita una excepción al Código de Planeamiento Urbano del Partido de Zárate, para la actividad de \"Venta de vidrios\", \"Venta de ventanas, espejos, mamparas de baño\", en el domicilio de la Aven...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12592",
+      "scraped_at": "2026-04-15T14:21:35.230318+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12472,
+      "tipo": "Ordenanza",
+      "numero": "4241",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4241 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 109/14.- V I S T O: La solicitud formulada por la empresa TERMIPOL SOCIEDAD ANONIMA., mediante expediente N° 4121- 1334/2014, y.- CONSIDERANDO: Que, la empresa TERMIPOL SOCIEDAD ANONIMA, formula solicitud de excepción al Código de Planeamiento Urbano de Zárate en su artículo 3 (Normas específicas por zonas)...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12472",
+      "scraped_at": "2026-04-15T14:21:11.751306+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12471,
+      "tipo": "Ordenanza",
+      "numero": "4240",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4240 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 108/14.- V I S T O: El Expediente N° 4121-0166/2014, por el cual se solicita el cambio de Zonificación para el inmueble designado catastralmente como Circunscripción: II Sección: A, Manzana 100 (Parcelas 1,2,3,4,6,7 y 8), Manzana 101 (Parcelas 1,2,3 y 9), Manzana 102 (Parcelas 1 a 10), Manzanas 103, 104, 10...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12471",
+      "scraped_at": "2026-04-15T14:21:11.745499+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "cambio de zonificación"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12459,
+      "tipo": "Ordenanza",
+      "numero": "4102",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4102 CORRESPONDE A EXPEDIENTE Nº 4121 -H.C.D. 160/12.- V I S T O : El expediente N° 4121 HCD 160/011 iniciado por un grupo de vecinos del barrio \"El Mangrullo\" donde solicitan se asigne nombre a las calles de ese Barrio, y.- CONSIDERANDO : Que las calles públicas a las que se le quiere asignar nombre surgen del plano de mensura y división N° 38-210-75.-...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12459",
+      "scraped_at": "2026-04-15T14:21:09.012869+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12416,
+      "tipo": "Ordenanza",
+      "numero": "4217",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4217 CORRESPONDE A EXPTE. Nº 4121 -H.C.D. 472/13.- V I S T O: La consulta de zonificación formulada por el Sr. Fragosa Cesar Ernesto mediante expediente Nº 4121-7554/2013 y posterior solicitud de excepción mediante expediente Nº 4121-8616/2013, y.- CONSIDERANDO: Que, el Sr. Fragosa Cesar Ernesto formula consulta de zonificación para el ejercicio de la a...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12416",
+      "scraped_at": "2026-04-15T14:21:00.901933+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12394,
+      "tipo": "Ordenanza",
+      "numero": "4196",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4196 CORRESPONDE A EXPTE. H.C.D. 444/013.- V I S T O: El Expediente N° 4121-0291/13, en el cual se solicita el cambio de indicadores urbanísticos para el inmueble cuya nomenclatura catastral es la siguiente: Circunscripción: I, Sección: D, Manzana: 253, Parcela: 12a, del Partido de Zárate, propiedad de los señores Carlos Mario Torchiana y Eduardo Guille...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12394",
+      "scraped_at": "2026-04-15T14:20:55.954527+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "indicadores urbanísticos"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12393,
+      "tipo": "Ordenanza",
+      "numero": "4195",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4195 CORRESPONDE A EXPEDIENTE Nº 4121 -H.C.D. 437/13.- V I S T O: La solicitud formulada por la empresa LANXESS S.A, mediante expediente N° 4121-6270/2013, y.- CONSIDERANDO: Que, la empresa LANXESS S.A formula solicitud de excepción al Código de Planeamiento Urbano de Zárate en su artículo 3 (Normas específicas por zonas) inciso 3.5. (Planillas síntesis...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12393",
+      "scraped_at": "2026-04-15T14:20:55.908840+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "EXCEPCIONES": [
+            "excepción"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12324,
+      "tipo": "Ordenanza",
+      "numero": "4128",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4128 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D.123/13.- V I S T O: El Expediente Nº 4121-2325/2012, por el cual la Fundación José Manuel Estrada, solicita el cambio de Indicadores Urbanísticos para el inmueble designado catastralmente como Circunscripción: I, Sección: D, Manzana: 241, Parcela: 9, que se encuentra ubicada en el Área: Urbana, en la Zona: C...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12324",
+      "scraped_at": "2026-04-15T14:20:42.473539+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "indicadores urbanísticos"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12312,
+      "tipo": "Ordenanza",
+      "numero": "4116",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4116 CORRESPONDE A EXPEDIENTE Nº 4121- H.C.D. 058/13.- V I S T O: El Expediente Nº 4121-H.C.D. 3226/2012 por el cual se solicita el Cambio de Zonificación de los predios cuya Nomenclatura Catastral es: Circunscripción IV, Sección Rural, Parcelas 459b y 459d y que según el Código de Planeamiento del Partido de Zárate reconoce como Zona Rural de destinarl...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12312",
+      "scraped_at": "2026-04-15T14:20:40.145904+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "cambio de zonificación"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12281,
+      "tipo": "Ordenanza",
+      "numero": "4056",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4056 CORRESPONDE A EXPEDIENTE Nº 4121 -H.C.D. 222/12.- V I S T O: El expediente N° 4121-4730/2012 iniciado por la Junta Vecinal Bº La Quebrada donde solicitan se asigne nombre a las calles de ese Barrio, y.- CONSIDERANDO: Que las calles públicas a las que se le quiere asignar nombre surgen del plano de mensura y división N° 38-13-72.- Que dicho barrio p...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12281",
+      "scraped_at": "2026-04-15T14:20:34.099305+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12271,
+      "tipo": "Ordenanza",
+      "numero": "4046",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4046 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 164/12.- V I S T O: El Expediente N° 4121-7166/11, se solicita el cambio de indicadores urbanísticos para el inmueble designado catastralmente como Circ.: 1, Secc.: D , Manzana: 244 ;Parcela: 8 que se hallan localizadas en Área Urbana de Zárate , Zona Comercial alta (Ca), y.- CONSIDERANDO : Que independient...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12271",
+      "scraped_at": "2026-04-15T14:20:31.977800+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "indicadores urbanísticos"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12179,
+      "tipo": "Ordenanza",
+      "numero": "4010",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4010 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 024/12.- V I S T O: La Ordenanza 4001 sobre habilitación de granjas avícolas en el Partido de Zárate, y.- CONSIDERANDO: Que se han omitido involuntariamente algunos párrafos que merecen ser subsanados.- Por ello, el HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE ZÁRATE , en uso de sus facultades sanciona la sigui...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12179",
+      "scraped_at": "2026-04-15T14:20:14.371665+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fos"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12160,
+      "tipo": "Ordenanza",
+      "numero": "4007",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 4007 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 605/11.- V I S T O: Los planos de mensura y división Nº 38-38-90, 38-26-96, 38-40-87, 38-26-94. 38-4-2006, 38-30-97, 38-23-90, 38-3-2011, 38-59-87, 38-35-96 Y 38-1-88, donde surgen las parcelas 2z, 187x, 204ah, 206h, 208f, 211c, 219ª, 346cd, 420r, Frac: XVII - Parc: 8 , 509be, 509bh, y 612w respectivamente, con...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12160",
+      "scraped_at": "2026-04-15T14:20:10.273928+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12113,
+      "tipo": "Resolución",
+      "numero": "2277",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2277 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 545/11.- VISTO: Que, conforme lo testimonia el reconocimiento fotográfico que como Anexo forma parte de la presente y la información brindada por el Subsecretario de Obras Públicas en diferentes medios de comunicación social se ha iniciado la obra del \"Parque de los estudiantes\" en un sector de la Plaza Mitre ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12113",
+      "scraped_at": "2026-04-15T14:20:01.029297+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12112,
+      "tipo": "Resolución",
+      "numero": "2276",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2276 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 544/11.- VISTO: Que el próximo sábado 19 de Noviembre se realizará la apertura de la exposición fotográfica: \"La Jovita, ¡Patrimonio Presente!\" en el Club Argentino, extendiéndose la misma hasta el 3 de Diciembre, y.- CONSIDERANDO: Que en esta exposición \"La Jovita, ¡Patrimonio Presente!\" exhiben los fotógrafo...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12112",
+      "scraped_at": "2026-04-15T14:20:00.924825+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12097,
+      "tipo": "Comunicación",
+      "numero": "1651",
+      "asunto": "Concejo Deliberante de Zárate Comunicación Nro. 1651 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 542/11.- VISTO: Que, conforme lo testimonia el reconocimiento fotográfico que como Anexo forma parte de la presente, se están realizando trabajos preliminares de movimiento de suelo y obras de infraestructura y equipamiento relacionadas con el denominado proyecto Parque Central Urbano, y.- CONSIDERANDO: Que ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12097",
+      "scraped_at": "2026-04-15T14:19:58.011239+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 12074,
+      "tipo": "Resolución",
+      "numero": "2262",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2262 CORRESPONDE A EXPTE. Nº 4121 H.C.D. 469/11.- VISTO: La problemática situación planteada por vecinos del sector urbano noreste y usuarios en general en relación al estado de conservación de la calle Teodoro Fels en el tramo comprendido entre Avda. Lavalle y calle Alte. Brown, y.- CONSIDERANDO: Que se realizó un recorrido y relevamiento fotográfico ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=12074",
+      "scraped_at": "2026-04-15T14:19:53.313415+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11960,
+      "tipo": "Resolución",
+      "numero": "2201",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2201 CORRESPONDE A EXPTE. Nº 4121- H.C.D. 260/11.- VISTO: El estado de deterioro que presentan las veredas y el equipamiento y mobiliario urbano de la Plaza Mitre como, así también la falta de mantenimiento programado de sus canteros; y , CONSIDERANDO: Que las fotografías que como Anexo forman parte de la presente dan cuenta de la situación descripta e...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11960",
+      "scraped_at": "2026-04-15T14:19:31.098269+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11884,
+      "tipo": "Resolución",
+      "numero": "2191",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2191 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 229/11.- VISTO: El deterioro que presenta la calle 9 de la localidad de Lima, en el tramo comprendido entre las calles 20 y 2, y.- CONSIDERANDO: Que se realizó un recorrido y relevamiento fotográfico de la calle 9 que testimonia la casi destrucción total del pavimento y mejorado motivado de la misma, principal...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11884",
+      "scraped_at": "2026-04-15T14:19:16.474810+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11872,
+      "tipo": "Comunicación",
+      "numero": "1609",
+      "asunto": "Concejo Deliberante de Zárate Comunicación Nro. 1609 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 204/11.- VISTO: El anuncio de venta de lotes en un emprendimiento de los denominados \"Barrio Cerrado\" publicado en el diario \"La Voz\", de fecha 27 de abril del año en curso y en que no se indica la pertinente Resolución municipal de Convalidación técnica definitiva o factibilidad, y.- CONSIDERANDO: Que la Pr...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11872",
+      "scraped_at": "2026-04-15T14:19:14.168823+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "barrio cerrado"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11821,
+      "tipo": "Resolución",
+      "numero": "2164",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2164 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 138/11.- VISTO: Que a raíz de una denuncia aportada por un ciclista ilustrada con fotografías, este Honorable Concejo Deliberante ha podido constatar \"per se\" la irregular instalación de una rejilla en el desagüe pluvial sito a todo lo ancho en la calle Estrada casi esquina Maipú de la ciudad de Zárate, y.- CO...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11821",
+      "scraped_at": "2026-04-15T14:19:04.171188+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11808,
+      "tipo": "Resolución",
+      "numero": "2142",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2142 CORRESPONDE A EXPTE. Nº 4121 - H.C.D 067/11 .- VISTO: La problemática situación planteados por vecinos en relación al estado de conservación de las calles López y Planes - desde Av. Gallesio hasta calle Córdoba - y 11 de Noviembre - desde calle Larrea hasta calle López y Planes, y.- CONSIDERANDO: Que se realizó un recorrido y relevamiento fotográf...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11808",
+      "scraped_at": "2026-04-15T14:19:01.404092+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11664,
+      "tipo": "Ordenanza",
+      "numero": "2339",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2339 CORRESPONDE A EXPTE. 4121 - H.C.D. 184/86.- VISTO Y CONSIDERANDO: Que la creación de un fondo municipal cuyo patrimonio esté constituido por tierras y dinero, apunta a dotar al Departamento Ejecutivo, de un instrumento idóneo para la subdivisión y adjudicación de terrenos con sen­tido Social, pero a la vez, implementar formas de recobro, de modo de...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11664",
+      "scraped_at": "2026-04-15T14:18:33.289823+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "subdivisión"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11650,
+      "tipo": "Comunicación",
+      "numero": "1502",
+      "asunto": "Concejo Deliberante de Zárate Comunicación Nro. 1502 CORRESPONDE A EXPE. Nº 4121 - H.C.D. 267/10.- VISTO: El aviso publicitario aparecido en el Diario \"LA VOZ\" del día viernes 4 de Junio de 2010 en el que se ofrece públicamente a la venta townhouses y lotes de 600m2 a 11 00m2 en el Barrio Cerrado \"Altos del Casco\" sito en la Av. Antártida Argentina, a 500 metros de Ruta Nacional N° 9 salida Km 88,...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11650",
+      "scraped_at": "2026-04-15T14:18:30.867284+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "barrio cerrado"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11621,
+      "tipo": "Ordenanza",
+      "numero": "2355",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2355 CORRESPONDE A EXPTE. 4121 - D.E. 374/86.- VISTO: La reducida superficie destinada a espacios verdes libres públicos en el Partido de Zárate.- Que el requerimiento establecido por el Decreto Ley 8912 para dicho equipamiento, no está cubierto, y.- CONSIDERANDO: Que el espacio verde, cumple una función sanitaria muy importante en la preservación del m...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11621",
+      "scraped_at": "2026-04-15T14:18:24.995960+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "8912_PROVINCIAL": [
+            "8912"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 11601,
+      "tipo": "Resolución",
+      "numero": "2132",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2132 CORRESPONDE A EXPTE. Nº 4121- H.C.D. 552/10.- VISTO: La situación de intransitabilidad que se plantea luego de cada lluvia persistente y/o torrencial en la Calle N° 15 del Barrio \"La Florida\" localizado en la Zona Residencial Extraurbana (RE) del Área Complementaria (AC) de la ciudad de Zárate y de la que dan cuenta las fotografías que como Anexo ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11601",
+      "scraped_at": "2026-04-15T14:18:20.960584+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11541,
+      "tipo": "Ordenanza",
+      "numero": "2410",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2410 CORRESPONDE A EXPTE. 4121 - H.C.D. 180/87.- ORDENANZA Nº 2410.- ARTICULO 1º.- Apruébese el Convenio Celebrado con la Empresa Nacional de Correos y Telégrafos y esta Municipalidad, para la ejecución de la construcción del Edificio y Vivienda, destinado para el funcionamiento de la oficina de Correos y Telégrafos de la Localidad de Lima.- ARTICULO 2º...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11541",
+      "scraped_at": "2026-04-15T14:18:09.278675+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fos"
+          ]
+        },
+        "requiere_convalidacion": true
+      }
+    },
+    {
+      "id_exp": 11426,
+      "tipo": "Ordenanza",
+      "numero": "2478",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2478 CORRESPONDE A EXPTE. 4121 - H.C.D. 365/87.- VISTO: La delimitación del área urbana de la ciudad de Zara te establecida en el Artículo 2°, de la Ordenanza N° 1994 del 4 de Mayo de 1981; y.- CONSIDERANDO: Que el sector comprendido por las Calles Soler, Falucho y Andes y prolongación de la calle Balcarce se halla, según plano de mensura y Subdivisión ...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11426",
+      "scraped_at": "2026-04-15T14:17:47.190767+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "subdivisión"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11405,
+      "tipo": "Resolución",
+      "numero": "2076",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2076 CORRESPONDE A EXPTE. Nº 4121-H.C.D. 590/10.- VISTO: Que conforme al Plano de Subdivisión 38-93-68 el bloque de la Circunscripción II Sección G, delimitado por las calles Caseros, 20 de Noviembre, Roca y Alférez Pacheco del Área Urbana de la ciudad de Zárate constituye el espacio verde de Villa Smithfield, y.- CONSIDERANDO: Que el barrio Villa Smit...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11405",
+      "scraped_at": "2026-04-15T14:17:42.996152+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "subdivisión"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11378,
+      "tipo": "Resolución",
+      "numero": "2069",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2069 CORRESPONDE A EXPTE. Nº 4121 - H.C.D. 574/10.- VISTO: Que, el 21 de setiembre se celebró, el \"DIA DEL FOTÓGRAFO\"; y.- CONSIDERANDO: Que, en el distrito de Zárate, existen varios vecinos que se dedican a la fotografía como profesión, y también como medio de realización personal.- Que, además, muchos de ellos lo hacen como una forma de vida, que sig...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11378",
+      "scraped_at": "2026-04-15T14:17:37.685430+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11341,
+      "tipo": "Ordenanza",
+      "numero": "3077",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 3077 CORRESPONDE A EXPTE. 4121 -H.C.D. 974/96.- V I S T O: El Expediente Nº 4121-3966/96, iniciado por la Cooperativa de Electricidad y Servicios Anexos Ltda. de Zárate, solicitando el cambio de Zonificación del predio identificado catastralmente como: Circunscripción 11, Parcelas 171a y 171c a fin de construir un conjunto urbanístico integral, y.- CONS...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11341",
+      "scraped_at": "2026-04-15T14:17:30.693359+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "cambio de zonificación"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11271,
+      "tipo": "Resolución",
+      "numero": "2048",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2048 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 522/10.- VISTO: El pedido de varios vecinos del Barrio Villa Nueva en referencia a varias necesidades de obras y servicios públicos en la zona; y.- CONSIDERANDO: Que los pedidos se sustentan con fotografías a color obrante al presente como Anexo I.- Que, se trata de peticiones concretas respecto a la repar...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11271",
+      "scraped_at": "2026-04-15T14:17:16.545625+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11232,
+      "tipo": "Ordenanza",
+      "numero": "2550",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2550 CORRESPONDE A EXPEDIENTETE Nº 4121-H.C.D. 054/89.- VISTO: El plano de mensura y división Nº 38-11-88, correspondiente a la parcela 14d; y.- CONSIDERANDO: Que el bien mensurado constituye un sobrante fiscal.- Que el bien mensurado cumple con el Artículo 11º, Inciso 3, de la Ley 9533.- Que a los efectos de regularizar la situación dominial se debe in...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11232",
+      "scraped_at": "2026-04-15T14:17:09.019432+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11231,
+      "tipo": "Ordenanza",
+      "numero": "2551",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2551 CORRESPONDE A EXPEDIENTETE Nº 4121-H.C.D. 081/89.- VISTO: El plano de mensura y división Nº 38-25-67 donde surgen las parcelas 2a, 3a, 5a, 5b, 5c; y.- CONSIDERANDO: Que las mencionadas parcelas se encuentran inscriptas a nombre de la Provincia de Buenos Aires bajo el dominio Nº 327, Año: 71.- Que en virtud del artículo 2º de la Ley 9533/80, dichas ...",
+      "es_suelo": false,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11231",
+      "scraped_at": "2026-04-15T14:17:08.959091+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "mensura y división"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11219,
+      "tipo": "Comunicación",
+      "numero": "1540",
+      "asunto": "Concejo Deliberante de Zárate Comunicación Nro. 1540 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 460/10.- VISTO: Que se ha procedido al cierre de hecho de la calle Molo en su intersección con la calle Hipólito Yrigoyen de lo que da cuenta las fotografías acompañadas; y.- CONSIDERANDO: Que las calles forman parte de la vía pública y todo lo concerniente a las mismas es competencia exclusiva y excluye...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11219",
+      "scraped_at": "2026-04-15T14:17:06.614556+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11186,
+      "tipo": "Ordenanza",
+      "numero": "2574",
+      "asunto": "Concejo Deliberante de Zárate Ordenanza Nro. 2574 CORRESPONDE A EXPTE. 4121 - H.C.D. 2885/87.- VISTO: El Expediente N° 4121-2885/87 y la Resolución del Honorable Concejo Deliberante N° 167/87; y.- CONSIDERANDO: Que las mismas se refieren a un sector del denominado \"LOTEO MONIN\"; que el sector ha experimentado la radicación de diversos planes de viviendas oficiales y privadas.- Que es adecuado en c...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11186",
+      "scraped_at": "2026-04-15T14:17:00.312544+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "URBANIZACIONES": [
+            "loteo"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11075,
+      "tipo": "Resolución",
+      "numero": "2015",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2015 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 399/10.- VISTO: La exposición denominada \"tres Caminos...Un destino\", realizada por Mario Castillo y Nil-da Gianfelice, que se llevara a cabo el 7 de agosto de 2010 en el Club Argentino; y.- CONSIDERANDO: Que esta Exposición Tres Caminos...Un destino, exponen la fotógrafa Nilda Gianfelice, quien decidió un...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11075",
+      "scraped_at": "2026-04-15T14:16:37.396769+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11074,
+      "tipo": "Resolución",
+      "numero": "2014",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 2014 CORRESPONDE A EXPEDIENTE Nº 4121 - 390/10.- VISTO: Que del reconocimiento en el lugar y del relevamiento fotográfico que, como Anexo Único forma parte de la presente, se ha detectado un importante deterioro y falta de mantenimiento de veredas y sectores de tránsito peatonal (puente) en la ex Estación Zárate Alto del ex Ferrocarril Urquiza - sita e...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11074",
+      "scraped_at": "2026-04-15T14:16:36.910215+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    },
+    {
+      "id_exp": 11015,
+      "tipo": "Resolución",
+      "numero": "1995",
+      "asunto": "Concejo Deliberante de Zárate Resolución Nro. 1995 CORRESPONDE A EXPEDIENTE Nº 4121 - H.C.D. 305/10.- VISTO: El significativo deterioro de las veredas del Palacio Municipal de Zárate, en correspondencia con las calles 3 de Febrero, Avenida Rivadavia y Dr. Félix Pagola, que se visualiza en el relevamiento fotográfico que, como Anexo Único, forma parte de la presente; y.- CONSIDERANDO: Que la situac...",
+      "es_suelo": true,
+      "url_hcd": "https://www.hcdzarate.gob.ar/popup_concejodeliberante2.php?id_exp=11015",
+      "scraped_at": "2026-04-15T14:16:25.668286+00:00",
+      "auditoria_suelo": {
+        "score": 2,
+        "alertas": {
+          "USO_SUELO": [
+            "fot"
+          ]
+        },
+        "requiere_convalidacion": false
+      }
+    }
+  ]
+}
