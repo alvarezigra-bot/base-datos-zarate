@@ -1,0 +1,66 @@
+
+============================================================
+[SECCIÓN 207 (CONOCIDA)]  https://www.hcdzarate.gob.ar/index.php?seccion_generica_id=207
+============================================================
+  HTTP: 200 | Tamaño: 62473 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery']
+  Top Clases: [('texto', 97), ('texto-negrita', 7), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1), ('titulo2', 1)]
+  Tablas encontradas: 8
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Buscador de Normas Buscador de Normas Tipo No filtrar ComunicaciónDecreto ConcejoDecreto de PromulgaciónDecreto de 
+
+============================================================
+[ID INEXISTENTE (9999)]  https://www.hcdzarate.gob.ar/index.php?seccion_generica_id=9999
+============================================================
+  HTTP: 200 | Tamaño: 29113 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery']
+  Top Clases: [('texto', 97), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1)]
+  Tablas encontradas: 6
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Bienvenidos Sección inexistente o sin contenido Brown 355 1° Piso Zárate (cp 2800) - Bs As Tel. 03487-422327 Tel. 0
+
+============================================================
+[ARTICULO 1]  https://www.hcdzarate.gob.ar/index.php?articulo_id=1
+============================================================
+  HTTP: 200 | Tamaño: 28473 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery']
+  Top Clases: [('texto', 97), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1)]
+  Tablas encontradas: 6
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Noticias Brown 355 1° Piso Zárate (cp 2800) - Bs As Tel. 03487-422327 Tel. 03487-427974 hcdzaratesecretaria@gmail.c
+
+============================================================
+[ARTICULO 50]  https://www.hcdzarate.gob.ar/index.php?articulo_id=50
+============================================================
+  HTTP: 200 | Tamaño: 32369 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery', 'volanta', 'titulo', 'copete', 'texto', 'texto2']
+  Top Clases: [('texto', 100), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1), ('texto-negrita-chica', 1), ('titulo1', 1)]
+  Tablas encontradas: 7
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Noticias 01-12-2016 - H.C.D. EFEMERIDES Día internacional de la lucha contra el Sida El Ministerio de Salud informó
+
+============================================================
+[BÚSQUEDA AÑO 2024]  https://www.hcdzarate.gob.ar/index.php?anio=2024
+============================================================
+  HTTP: 200 | Tamaño: 36181 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery']
+  Top Clases: [('texto', 115), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1)]
+  Tablas encontradas: 10
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Bienvenidos APERTURA SESIONES ORDINARIAS Marzo 2026 - Inicio Sesiones Ordinarias.... 17MA SESION PUBLICA ORDINARIA 
+
+============================================================
+[TIPO ORDENANZA]  https://www.hcdzarate.gob.ar/index.php?tipo=ordenanza
+============================================================
+  HTTP: 200 | Tamaño: 36181 bytes
+  IDs: ['musica', 'video', 'myjquerymenu', 'myGallery']
+  Top Clases: [('texto', 115), ('link', 6), ('imageElement', 2), ('open', 2), ('full', 2), ('jquerycssmenu', 1), ('content', 1)]
+  Tablas encontradas: 10
+    - Tabla 0: 5 filas
+    - Tabla 1: 2 filas
+  Snippet Central: Zárate Como Llegar Turismo Capital Provincial del Tango Información General Teléfonos Utiles Historia de Zárate Historia del Concejo Presidentes del Concejo Museo y Archivo Histórico Municipal Escudo de Zárate Ciudadanos Destacados / PRENSA Noticias del Concejo Ver Sesión en Vivo Noticias de Zárate Medios de Prensa Radios de Zárate Redes Sociales y Webs Contacto Concejales Contacto Bienvenidos APERTURA SESIONES ORDINARIAS Marzo 2026 - Inicio Sesiones Ordinarias.... 17MA SESION PUBLICA ORDINARIA 
